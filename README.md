@@ -7,6 +7,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
+[![Profile views](https://komarev.com/ghpvc/?username=nuhmanpk&label=Profile%20views)](https://github.com/nuhmanpk)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
+
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Flutter Projects
