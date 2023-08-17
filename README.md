@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Thilina+!;I'm+a+Full-Stack+Developer;)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=ThilinaTennakoon&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=nuhmanpk&label=Profile%20views)](https://github.com/nuhmanpk)<img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
 
