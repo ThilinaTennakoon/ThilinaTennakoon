@@ -10,7 +10,7 @@
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="right"/>
 
 ### I am a Full Stack Developer
-- 💻 Axcertro Intern @ <a href="https://axcertro.com/">Axcertro</a>
+- 💻 Axcertro Developer @ <a href="https://axcertro.com/">Axcertro</a>
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Laravel Web Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
